@@ -1,0 +1,3 @@
+rootProject.name='FSP'
+include ':app'
+include ':fsp'

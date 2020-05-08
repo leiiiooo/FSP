@@ -1,0 +1,37 @@
+
+o
+?fsp/src/main/java/com/turbo/fsp/interface/FSharedPreferences.kt,2/6/2612620e93b439e42e39e7dd3d48648ae8e9e621
+d
+4fsp/src/main/java/com/turbo/fsp/interface/FEditor.kt,d/2/d27cb4174ad69b036baa0523cfa6f1e7066473e2
+@
+fsp/build.gradle,0/0/00ace13e74c255db626e77683e616ab1d105380b
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+]
+-fsp/src/main/java/com/turbo/fsp/io/IOUtils.kt,1/c/1c7029946e617e1e9188d806c83f392df8563b70
+_
+/fsp/src/main/java/com/turbo/fsp/io/FileUtils.kt,2/9/2998ac96444883efdea90ce46c926f2ccb3617d7
+c
+3fsp/src/main/java/com/turbo/fsp/io/ReadWriteCore.kt,9/5/95b31065e9ee10028a3bb4b9dc0caac5e1022967
+b
+2fsp/src/main/java/com/turbo/fsp/task/ReloadTask.kt,6/2/6255f7299b340532324b7011495b17f651e3cbf9
+`
+0fsp/src/main/java/com/turbo/fsp/task/SyncTask.kt,3/7/37fa11bceef243ef095ecf4cd88c284fa1ee5fd5
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Y
+)fsp/src/main/java/com/turbo/fsp/Consts.kt,0/b/0bf96e26bbf656245e052354cff7ea1f018f621b
+V
+&fsp/src/main/java/com/turbo/fsp/FSP.kt,2/b/2be9f5f6a17bc07035c3afe0146a356245893218
+]
+-fsp/src/main/java/com/turbo/fsp/model/Lock.kt,e/a/ea54c2bbaa83838b5a8483f86132107cc50f4606
+c
+3fsp/src/main/java/com/turbo/fsp/editor/FspEditor.kt,0/1/015866046f2f9d7a093b776e85c71c151dc1ce3f
+a
+1fsp/src/main/java/com/turbo/fsp/cache/FspCache.kt,a/b/ab4823488f223b0e2455cfda43eb7206ef390f1a
+n
+>fsp/src/main/java/com/turbo/fsp/Observer/DataChangeObserver.kt,3/2/32f9a9c31d24cb6179235980c2f9e322ce2fe8b0
+a
+1app/src/main/java/com/turbo/demo/MyApplication.kt,e/2/e2c1ecad322595baadbe00525fafc32c68cb6187
+`
+0app/src/main/java/com/turbo/demo/MainActivity.kt,0/e/0e9ee9d8028ba34481e3d8a436b9e89909cf2b88

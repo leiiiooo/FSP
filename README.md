@@ -1,2 +1,1 @@
-# FSP
-a fast, light SharedPreferences client
+易用、高效、跨进程
